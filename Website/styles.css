@@ -112,7 +112,7 @@ z {
 }
 
 .pit-stop-viz iframe {
-    max-width: 100%;
+    width: 100%;
     height: 750px;
     display: block;
     margin: 0 auto;
@@ -130,7 +130,7 @@ z {
 }
 
 .fastest-lap-viz iframe {
-    max-width: 100%;
+    width: 100%;
     height: 750px;
     display: block;
     margin: 0 auto;
